@@ -1,5 +1,5 @@
 import { ref } from 'vue';
-import { bookEvent } from '../../services/api/capacity'
+import { bookEvent } from '../../services/api/event'
 
 export default function withBookEvent() {
     const result = ref(null);

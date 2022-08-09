@@ -19,3 +19,6 @@ npm run dev
 [Vue 3](https://v3.vuejs.org/)
 
 [Vite](https://vitejs.dev/guide/)
+
+### Templates
+
